@@ -1,0 +1,41 @@
+Musical: Example Musical
+Date: 2023-12-31
+
+Receipt details go here...
+Total Cost: $50.00
+
+Musical: The Phantom of the Opera
+Date: 2023-12-14
+
+Selected Seat: 10
+Ticket Type: Adult
+Ticket Cost per Adult: $10.0
+Cost for Seat 10: $10.0
+
+Selected Seat: 17
+Ticket Type: Senior
+Ticket Cost per Senior: $8.0
+Cost for Seat 17: $8.0
+
+
+Total Cost: $18.0
+
+Musical: Example Musical
+Date: 2023-12-31
+Time Slot: Selected Time Slot
+
+Receipt details go here...
+Total Cost: $50.00
+
+Musical: Les Misérables
+Date: 2023-12-16
+Time Slot: 8:30 PM
+
+Selected Seat: 5
+Ticket Type: Senior
+Ticket Cost per Senior: $8.0
+Cost for Seat 5: $8.0
+
+
+Total Cost: $8.0
+
